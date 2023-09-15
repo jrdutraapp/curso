@@ -1,0 +1,15 @@
+let velocity = 90
+
+switch(velocity) {
+    case 80:
+        console.log("Velocidade mínima")
+    case 90:
+        console.log("Velocidade 90km/s")
+    case 100:
+        console.log("Velocidade aceitável")
+    case 110:
+        console.log("Velocidade alta, mas aceitável")
+        break
+    default:
+        console.log("Velocidade não identificada")
+}
