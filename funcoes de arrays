@@ -1,0 +1,26 @@
+let hitchedSpaceships = ["Supernova", "Elemental", "Helmet"]
+
+
+//push inseri ultimo elemento
+//hitchedSpaceships.push("Top")
+
+//remover o ultimo
+//hitchedSpaceships.pop()
+
+//retorna o elemento removido
+//let removedSpaceship = hitchedSpaceships.pop()
+
+//shift remove a primeira
+//let removedSpaceship = hitchedSpaceships.shift()
+//console.log(removedSpaceship)
+
+//adiciona na primeira posição
+//hitchedSpaceships.unshift("Fenix")
+
+//informa a posição
+let elementalpos = hitchedSpaceships.indexOf("Elemental")
+
+console.log(elementalpos)
+
+// quantidade de elementos
+//console.log(hitchedSpaceships.length)
