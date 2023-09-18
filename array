@@ -1,0 +1,5 @@
+let hitchedSpaceships = ["Supernova", "Elemental", "Helmet"]
+
+console.log(hitchedSpaceships[1])
+
+// ou pode usar = new Array("supernova", "elemental")
