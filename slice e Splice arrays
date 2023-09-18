@@ -1,0 +1,11 @@
+let spaceshipNames = ["Elemental", "Darwin", "Artemis,"]
+
+let extractedNames = spaceshipNames.slice(1, 2)
+console.log(spaceshipNames)
+
+//substituir ou eliminar no arrays com as posições
+//let removedSpaceships = spaceshipNames.splice(1, 2, "Teste ", "trocar")
+
+console.log(spaceshipNames)
+
+console.log(extractedNames)
