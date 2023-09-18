@@ -1,0 +1,5 @@
+let hitchedSpaceships = [ ["Elemental", 7], ["Helmet", 10], ["Golias", 15], ["Bruta", 20] ]
+
+//hitchedSpaceships.push(["Colossus", 8])
+//selecionando posição
+console.log(hitchedSpaceships[3][0])
