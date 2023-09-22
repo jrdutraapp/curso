@@ -1,0 +1,15 @@
+function show() {
+    let elements = document.getElementsByTagName("input")
+    console.log(elements)
+    //retorna a lista
+    //let elements = document.querySelectorAll("div#phones input[name='phone']")
+    //console.log(elements)
+    
+    // lista
+    //let element = document.getElementsByName("phone")
+    //console.log(elements)
+
+    //valor
+    //let element = document.getElementByIdElementById("name")
+    //console.log(element.value)
+}
