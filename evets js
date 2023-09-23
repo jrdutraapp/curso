@@ -1,0 +1,10 @@
+document.querySelector("select-option").addEventListener("change", function() { 
+    alert(event.target.value)
+})
+
+
+let changeEvent = new Event("change")
+
+sampleImput.dispatchEvent(changeEvent
+    
+    sampleInput.addEventListener("change", doChange))
