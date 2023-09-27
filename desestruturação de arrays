@@ -1,0 +1,13 @@
+let spaceship = {
+  name: "Colossus",
+  crewQuantity: 10,
+  isHitched: false
+}
+
+let {name: spaceshipName, crewQuantity } = spaceship
+
+exemplo com arrays
+
+let spaceships = ["teste", "teste02", "teste03"]
+
+let [colossus, artemis]
